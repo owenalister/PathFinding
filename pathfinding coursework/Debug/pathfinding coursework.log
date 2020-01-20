@@ -1,0 +1,16 @@
+﻿  Main.cpp
+c:\users\owena\documents\visual studio 2017\projects\dijkstra’s alg\dijkstra’s alg\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  c:\users\owena\documents\visual studio 2017\projects\dijkstra’s alg\dijkstra’s alg\main.cpp(49): note: while compiling class template member function 'double Graph<std::string>::dijkstra(T,T)'
+          with
+          [
+              T=std::string
+          ]
+  c:\users\owena\documents\visual studio 2017\projects\dijkstra’s alg\dijkstra’s alg\main.cpp(168): note: see reference to function template instantiation 'double Graph<std::string>::dijkstra(T,T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  c:\users\owena\documents\visual studio 2017\projects\dijkstra’s alg\dijkstra’s alg\main.cpp(163): note: see reference to class template instantiation 'Graph<std::string>' being compiled
+c:\users\owena\documents\visual studio 2017\projects\dijkstra’s alg\dijkstra’s alg\main.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  pathfinding coursework.vcxproj -> c:\users\owena\documents\visual studio 2017\Projects\pathfinding coursework\Debug\pathfinding coursework.exe
+  pathfinding coursework.vcxproj -> c:\users\owena\documents\visual studio 2017\Projects\pathfinding coursework\Debug\pathfinding coursework.pdb (Partial PDB)
